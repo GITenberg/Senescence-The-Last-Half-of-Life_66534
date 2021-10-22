@@ -1,0 +1,31 @@
+_repo: Senescence-The-Last-Half-of-Life_66534
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hall, G. Stanley (Granville Stanley)
+    alias: Hall, Granville Stanley
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '2990'
+    url: http://www.gutenberg.org/2009/agents/2990
+    wikipedia: https://en.wikipedia.org/wiki/G._Stanley_Hall
+description: ''
+gutenberg_issued: '2021-10-14'
+identifiers:
+  gutenberg: '66534'
+language: en
+pgterms:marc904: https://archive.org/details/senescencelastha00halliala
+pgterms:marc905: 20200619073426hall
+pgterms:marc906: '1922'
+pgterms:marc907: US
+production_note: Turgut Dincer, Charlie Howard, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United States :D. Appleton and Company,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Senescence, The Last Half of Life
+url: http://www.gutenberg.org/ebooks/66534
